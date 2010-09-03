@@ -1,0 +1,34 @@
+/*
+Javascript code prettifier/prettify.js by Google.
+override the github style.
+*/
+
+pre.prettyprint {
+  border: none !important;
+  background-color: #FFFFFF !important;
+  /*background-color: #F8F8FF !important;*/
+  font-family: 'Bitstream Vera Sans Mono','Courier',monospace !important;
+}
+.kwd {
+  color: #000000 !important;
+  font-weight: bold !important;
+}
+.typ {
+  color: #0086B3 !important;
+}
+.atn {
+  color: #008080 !important;
+}
+.atv {
+  color: #DD1144 !important;
+}
+.str {
+  color: #DD1144 !important;
+}
+.lit {
+  color: #40A070 !important;
+}
+.com {
+  color: #999988 !important;
+  font-style: italic !important;
+}

@@ -1,0 +1,10 @@
+{
+    "id": "jid0-1UvqVdeckmkM9SuyMBS3OKCgJqo", 
+    "description": "HTML, JS etc code beautify. Syntaxhighlight.", 
+    "author": "cherenkov",
+    "url": "http://d.hatena.ne.jp/Cherenkov/",
+    "name": "js-beautify",
+    "fullName" : "Code Beautify & Syntax Highlight (beta)",
+    "version": "0.0.1",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1"
+}
