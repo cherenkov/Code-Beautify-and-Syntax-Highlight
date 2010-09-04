@@ -7,8 +7,15 @@
 
 
 使い方：
-例えば圧縮されたJSファイルをブラウザで開いた場合、
+例えば圧縮されたJSファイルをブラウザで開いて、読みやすく整形したい場合は、
 http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
 ページを開いて、コンテキストメニューの「JavaScript Beautifier」をクリックすると綺麗に整形されます。
 続けて、コンテキストメニューの「Syntax Highlight」をクリックすればシンタックスハイライトが施されます。
 同様にHTMLソースを表示したpreかcode要素で「HTML beautify」をクリックすると綺麗に整形されます。
+
+他の利用シーンはブログに埋め込まれているpre要素を整形したりシンタックスハイライトしたり。
+
+
+
+同梱したlib/beautify.jsとdata/prettify.jsのライセンスが不安です。
+このままの形で公開してよさそうなのか分かる人は@cherenkovに教えて下さい…。
