@@ -1,9 +1,9 @@
 ソースコードを綺麗にする機能をコンテキストメニュー（右クリックメニュー）に3種類追加します。
 （HTMLのpreかcode要素でコンテキストメニューを開いた場合のみ）
 
-1. JavaScript Beautifier (jsbeautifier.org)
-2. HTML beautify (Ham Cutlet)
-3. Syntax Highlight (google-code-prettify)
+1. JavaScript Beautifier (jsbeautifier.org)- JSコード整形
+2. HTML beautify (Ham Cutlet) - HTMLコード整形
+3. Syntax Highlight (google-code-prettify)- シンタックスハイライト
 
 
 インストール方法：
