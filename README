@@ -6,6 +6,11 @@
 3. Syntax Highlight (Google)
 
 
+インストール方法：
+http://github.com/cherenkov/Code-Beautify-and-Syntax-Highlight/raw/master/js-beautify.xpi
+このxpiをダウンロード（名前を付けて保存する）した後、Firefoxに放り込んで下さい。
+
+
 使い方：
 例えば圧縮されたJSファイルをブラウザで開いて、読みやすく整形したい場合は、
 http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
@@ -18,4 +23,4 @@ http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
 
 
 同梱したlib/beautify.jsとdata/prettify.jsのライセンスが不安です。
-このままの形で公開してよさそうなのか分かる人は@cherenkovに教えて下さい…。
+このままの形で公開してよさそうなのか分かる人は@cherenkovに教えて下さい。。
