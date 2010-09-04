@@ -1,0 +1,14 @@
+ソースコードを綺麗にする機能をコンテキストメニュー（右クリックメニュー）に3種類追加します。
+（HTMLのpreかcode要素でコンテキストメニューを開いた場合のみ）
+
+1. JavaScript Beautifier (jsbeautifier.org)
+2. HTML beautify (Ham Cutlet)
+3. Syntax Highlight (Google)
+
+
+使い方：
+例えば圧縮されたJSファイルをブラウザで開いた場合、
+http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+ページを開いて、コンテキストメニューの「JavaScript Beautifier」をクリックすると綺麗に整形されます。
+続けて、コンテキストメニューの「Syntax Highlight」をクリックすればシンタックスハイライトが施されます。
+同様にHTMLソースを表示したpreかcode要素で「HTML beautify」をクリックすると綺麗に整形されます。
